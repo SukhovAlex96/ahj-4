@@ -1,3 +1,3 @@
-# Домашнее задание по лекции EVENTS
+# Домашнее задание по лекции Testing
 
-![CI](https://github.com/SukhovAlex96/ahj-1/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/SukhovAlex96/ahj-4/actions/workflows/web.yml/badge.svg)
